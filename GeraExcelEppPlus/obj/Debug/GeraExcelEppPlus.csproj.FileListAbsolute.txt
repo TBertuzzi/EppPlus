@@ -1,0 +1,11 @@
+D:\Data\Fontes\Exemplos\GITHub\GeraExcelEppPlus\GeraExcelEppPlus\GeraExcelEppPlus\bin\Debug\GeraExcelEppPlus.exe.config
+D:\Data\Fontes\Exemplos\GITHub\GeraExcelEppPlus\GeraExcelEppPlus\GeraExcelEppPlus\bin\Debug\GeraExcelEppPlus.exe
+D:\Data\Fontes\Exemplos\GITHub\GeraExcelEppPlus\GeraExcelEppPlus\GeraExcelEppPlus\bin\Debug\GeraExcelEppPlus.pdb
+D:\Data\Fontes\Exemplos\GITHub\GeraExcelEppPlus\GeraExcelEppPlus\GeraExcelEppPlus\bin\Debug\EPPlus.dll
+D:\Data\Fontes\Exemplos\GITHub\GeraExcelEppPlus\GeraExcelEppPlus\GeraExcelEppPlus\bin\Debug\EPPlus.xml
+D:\Data\Fontes\Exemplos\GITHub\GeraExcelEppPlus\GeraExcelEppPlus\GeraExcelEppPlus\obj\Debug\GeraExcelEppPlus.csprojResolveAssemblyReference.cache
+D:\Data\Fontes\Exemplos\GITHub\GeraExcelEppPlus\GeraExcelEppPlus\GeraExcelEppPlus\obj\Debug\GeraExcelEppPlus.Main.resources
+D:\Data\Fontes\Exemplos\GITHub\GeraExcelEppPlus\GeraExcelEppPlus\GeraExcelEppPlus\obj\Debug\GeraExcelEppPlus.Properties.Resources.resources
+D:\Data\Fontes\Exemplos\GITHub\GeraExcelEppPlus\GeraExcelEppPlus\GeraExcelEppPlus\obj\Debug\GeraExcelEppPlus.csproj.GenerateResource.Cache
+D:\Data\Fontes\Exemplos\GITHub\GeraExcelEppPlus\GeraExcelEppPlus\GeraExcelEppPlus\obj\Debug\GeraExcelEppPlus.exe
+D:\Data\Fontes\Exemplos\GITHub\GeraExcelEppPlus\GeraExcelEppPlus\GeraExcelEppPlus\obj\Debug\GeraExcelEppPlus.pdb
